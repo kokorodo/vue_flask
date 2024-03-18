@@ -1,3 +1,7 @@
+已经简单完成的 vue3 + vite + tailwind + flask 的手脚架，可以运行起来的，后台数据库使用 mysql
+
+
+
 前端
 
 在frontend中，cd 进入vite-project，然后运行 npm install安装依赖，安装完成运行  npm run dev 运行
